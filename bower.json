@@ -1,0 +1,10 @@
+{
+	"name": "jquery-dist",
+	"main": [
+	  "jquery.js",
+	  "jquery.min.js"
+	],
+	"ignore": [
+		"package.json"
+	]
+}
